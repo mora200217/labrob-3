@@ -1,6 +1,12 @@
 # Laboratorio #3 Robótica
 Tercer laboratorio de la asignatura de Robótica de la Universidad Nacional de Colombia 2023-i.
 
+<p align="center">
+<img width="40%" src="https://github.com/mora200217/labrob-3/blob/master/assets/turtle.gif" /> 
+</p>
+
+
+
 **Integrantes**: 
 * Nelson David Ramírez Marín
 * Andrés Zuleta 
@@ -40,6 +46,10 @@ Esto llamará el `tustlesim_node` para vizualizar la tortuga, y el nodo `turtle_
 <p align="center">
  <img width="70%" src="https://github.com/mora200217/labrob-3/blob/master/assets/example_launch.png"/>
  </p> 
+
+
+https://user-images.githubusercontent.com/24869683/235335727-a4c7a3c0-7fd8-4062-9133-6eebed02b2cf.mp4
+
 
 
 
