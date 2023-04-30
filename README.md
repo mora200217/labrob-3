@@ -17,6 +17,24 @@ Se escribio un código en C++ que permite operar una tortuga del paquete turtles
 - Retorna a su posición y orientación centrales con la tecla R
 - Da un giro de 180° con la tecla ESPACIO
 
+### Estructura del proyecto 
+Todo el proyecto está dentro del catkin workspace `turtle_patch`. El paquete central se llama `turtle_control`. Contiene un `.launch` y un nodo ejecutable. 
+
+### Guía de uso
+Agrega el pkg a source. 
+```
+    source devel/setup.bash
+```
+
+Para correr el proyecto, basta con ejecutar el `example.launch`
+
+```
+    roslaunch turtle_control example.launch
+```
+
+
+
+
 
 
 
