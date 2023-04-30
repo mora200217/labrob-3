@@ -37,6 +37,11 @@ roslaunch turtle_control example.launch
 
 Esto llamará el `tustlesim_node` para vizualizar la tortuga, y el nodo `turtle_teleop_key2` para la GUI de control de movimiento. 
 
+<p align="center">
+ <img width="70%" src="https://github.com/mora200217/labrob-3/blob/master/assets/example_launch.png"/>
+ </p> 
+
+
 
 ## Conclusiones
 
