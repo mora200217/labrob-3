@@ -22,6 +22,7 @@ Se escribio un código en C++ que permite operar una tortuga del paquete turtles
 
 
 ## Conclusiones
-1. Es importante conocer diversas formas de realizar código para robótica, de esta forma se puede facilitar en gran medida la ejecución de diferentes aplicaciones dependiendo de la necesidad que se tenga.
-2. El framework ROS permite realizar diversas operaciones de una manera rápida y sencilla, por ello es importante reconocer su funcionamiento y herramientas disponibles.
-3. El trabajo en equipo permite adquirir un mayor aprendizaje en el desarrollo de los ejercicios, ya que se genera discusión acerca de lo que se está realizando y cuál es la mejor manera de hacerlo.
+
+1. 
+2. El framework ROS con su metodo de conectar nodos ayuda a realizar diversas operaciones de una manera rápida y sencilla.
+3. 
