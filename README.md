@@ -17,26 +17,25 @@ Se escribio un código en C++ que permite operar una tortuga del paquete turtles
 - Retorna a su posición y orientación centrales con la tecla R
 - Da un giro de 180° con la tecla ESPACIO
 
-### Estructura del proyecto 
+Se emplea el uso de publishers y de servicios para publicar al tópico `/turtle1/cmd_vel` o llamar los servicios `turtlesim/TeleportRelative` y turtlesim/TeleportAbsolute`
+
+### Estructura del proyecto 
+
 Todo el proyecto está dentro del catkin workspace `turtle_patch`. El paquete central se llama `turtle_control`. Contiene un `.launch` y un nodo ejecutable. 
 
-### Guía de uso
+## Guía de uso
 Agrega el pkg a source. 
 ```
-    source devel/setup.bash
+source devel/setup.bash
 ```
 
 Para correr el proyecto, basta con ejecutar el `example.launch`
 
 ```
-    roslaunch turtle_control example.launch
+roslaunch turtle_control example.launch
 ```
 
-
-
-
-
-
+Esto llamará el `tustlesim_node` para vizualizar la tortuga, y el nodo `turtle_teleop_key2` para la GUI de control de movimiento. 
 
 
 ## Conclusiones
