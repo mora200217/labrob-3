@@ -23,6 +23,6 @@ Se escribio un código en C++ que permite operar una tortuga del paquete turtles
 
 ## Conclusiones
 
-1. 
+1. Saber la sintaxis que se usan en diferentes lenguajes de programacion, como Python o C++, da una vision y recursividad mas amplia a la hora de elegir en donde se puede programar un codigo.
 2. El framework ROS con su metodo de conectar nodos ayuda a realizar diversas operaciones de una manera rápida y sencilla.
-3. 
+3. Los servicios son una herramienta util para usa subrutinas.
