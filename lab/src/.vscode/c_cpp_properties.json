@@ -1,0 +1,15 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/usr/local/Caskroom/miniforge/base/envs/ros-noetic-tools/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
