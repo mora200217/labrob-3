@@ -8,7 +8,7 @@ Tercer laboratorio de la asignatura de Robótica de la Universidad Nacional de C
 
 
 ## Planteamiento del Problema 
-ROS(Robot Operation System) es un middleware robótico, es decir, una colección de frameworks para el desarrollo de software de robots, el cual tiene cierta estructura y semantica que debe ser previamente conocida para lograr usar de manera eficaz dicho software
+ROS(Robot Operation System) es un middleware robótico, es decir, una colección de frameworks para el desarrollo de software de robots, el cual tiene cierta estructura y semantica que debe ser previamente conocida para lograr su uso de manera eficaz y optima.
  
 ## Desarrollo 
 Se escribio un código en C++ que permite operar una tortuga del paquete turtlesim con el teclado, el cual tiene las siguientes funciones
