@@ -1,0 +1,6 @@
+turtle_control
+/Users/amoralesma/Documents/UN/robotica/labs/labrob-3/turtle_patch/devel/.private/turtle_control/cmake.lock /Users/amoralesma/Documents/UN/robotica/labs/labrob-3/turtle_patch/devel/./cmake.lock
+/Users/amoralesma/Documents/UN/robotica/labs/labrob-3/turtle_patch/devel/.private/turtle_control/lib/pkgconfig/turtle_control.pc /Users/amoralesma/Documents/UN/robotica/labs/labrob-3/turtle_patch/devel/lib/pkgconfig/turtle_control.pc
+/Users/amoralesma/Documents/UN/robotica/labs/labrob-3/turtle_patch/devel/.private/turtle_control/lib/turtle_control/turtle_teleop_key2 /Users/amoralesma/Documents/UN/robotica/labs/labrob-3/turtle_patch/devel/lib/turtle_control/turtle_teleop_key2
+/Users/amoralesma/Documents/UN/robotica/labs/labrob-3/turtle_patch/devel/.private/turtle_control/share/turtle_control/cmake/turtle_controlConfig-version.cmake /Users/amoralesma/Documents/UN/robotica/labs/labrob-3/turtle_patch/devel/share/turtle_control/cmake/turtle_controlConfig-version.cmake
+/Users/amoralesma/Documents/UN/robotica/labs/labrob-3/turtle_patch/devel/.private/turtle_control/share/turtle_control/cmake/turtle_controlConfig.cmake /Users/amoralesma/Documents/UN/robotica/labs/labrob-3/turtle_patch/devel/share/turtle_control/cmake/turtle_controlConfig.cmake
